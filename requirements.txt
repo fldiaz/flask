@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+pandas
+numpy
+sqlalchemy
+lightgbm 
